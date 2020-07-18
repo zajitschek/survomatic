@@ -1,7 +1,1 @@
-install.packages("magrittr")
-install.packages("dplyr")
-install.packages("ggplot2")
-install.packages("rjson")
-install.packages("lme4")
-install.packages("survival")
-install.packages("lmerTest")
+install.packages("Survomatic")
